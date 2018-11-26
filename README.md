@@ -14,4 +14,4 @@ During my academic year at Explore Data Science Academy we had a personality Spr
 * 2. Multi layered perceptron
 * 3. Extreme Boosted classifier (XGB)
 * 4. Random Forest
-* 5. And Lastly Gradient Bossting Classifier
+* 5. And Lastly Gradient Boosted Classifier
